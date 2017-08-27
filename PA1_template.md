@@ -1,8 +1,5 @@
----
-title: "Reproducible Research: Assignment 1"
-output: html_document
----
 
+#Reproducible Research: Assignment 1
 
 ```r
 library(ggplot2)
